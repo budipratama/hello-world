@@ -1,0 +1,13 @@
+{
+    "name": "irez/yii2-helloworld",
+    "description": "simple extension yii2",
+    "type": "yii2-extension",
+    "authors": [
+        {
+            "name": "Budi Pratama",
+            "email": "irezpratama90@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
